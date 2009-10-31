@@ -1,0 +1,16 @@
+test.dSYM
+test
+test.o
+t/02_escape
+t/01_parse
+./test
+t/03_class
+t/02_escape
+t/01_parse
+*.o
+t/04_unescape
+Makefile
+inc/
+*.swp
+*.swo
+MANIFEST
